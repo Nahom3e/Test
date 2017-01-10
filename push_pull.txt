@@ -1,0 +1,5 @@
+am gonna send this file to GitHub.com
+To send file to GitHub we use
+      - git push command
+TO get file from GitHub we use
+      - git pull command
